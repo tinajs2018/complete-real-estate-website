@@ -1,0 +1,39 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+.selectionLight{
+    background-color: #eceeef;
+    padding: 2rem;
+
+}
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+.coolStuffWrapper{
+    margin-top: 20px;
+}
+ button.coolStuffbtn{
+background-color: red;
+color: white;
+display: block;
+margin: auto;
+}
+h5.modal-title{
+margin: auto ;
+}
+.modelFormWrapper{
+  padding: 2rem;  
+}
+#resize{
+    height:220px ;
+}
+#imgresizing{
+    height: 150px;
+}
+.imgCentre{
+    display: block;
+    margin: auto;
+    padding-top: 2rem;
+}
